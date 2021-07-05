@@ -1,0 +1,30 @@
+[11:06 AM] Shashipratap Singh
+    how do i find the pid of parent process of a process
+​[11:07 AM] Shashipratap Singh
+    i want to print line number 10-15 of line
+​[11:07 AM] Shashipratap Singh
+    line number 10 to line number 15
+​[11:08 AM] Shashipratap Singh
+    in vi editor how we replace one with other
+​[11:08 AM] Shashipratap Singh
+    one word with another word
+​[11:10 AM] Shashipratap Singh
+    i want to delete all *txt files recuresively inside /tmp directory
+​[11:12 AM] Shashipratap Singh
+    in my local repo i want to find the remote repo url
+​[11:13 AM] Shashipratap Singh
+    how u ll delete a commit id and its changes
+​[11:15 AM] Shashipratap Singh
+    how u can check from a linux system whether a url is working or not using commands
+​[11:16 AM] Shashipratap Singh
+    how do u setup passwordlessh ssh between 2 linux systems
+[11:16 AM] Shashipratap Singh
+    how do u setup passwordlessh ssh between 2 linux systems
+​[11:20 AM] Shashipratap Singh
+    how does jenkins main server connects with agents
+​[11:25 AM] Shashipratap Singh
+    u want to access s3 from an ec2 server
+​[11:26 AM] Shashipratap Singh
+    how can we configure multiple aws accounts using aws configure , is it possible ?
+​[11:27 AM] Shashipratap Singh
+    what happens when u execute aws configure command ?
